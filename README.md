@@ -2,7 +2,7 @@
 
 This is the accompanying code repository to the Streamlit blog post detailing thingsTHINKING's solution K-A-T-E One, powered by semantha.
 
-The full code used for the ESG demo will be published in the days to come.
+Read the blog post and play with K-A-T-E -- we'll add links here once the post and the application have been published.
 Until then, enjoy your family time: 30 years from now, your kids are the only ones who will remember you working all day every day.
 
 Still feeling compelled to learn more?
