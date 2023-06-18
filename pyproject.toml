@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "semantha-match-visualizer"
+version = "0.1.0"
+description = ""
+authors = ["Sebastian Weigelt <sebastian.weigelt@thingsthinking.net>"]
+maintainers = ["semantha support <support@semantha.de>"]
+readme = "README.md"
+homepage = "https://semantha.de"
+license = "Apache-2.0"
+packages = [{include = "src"}]
+
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.9.0"
+streamlit = "1.23.1"
+hydralit_components = "1.0.10"
+semantha-sdk = "5.4.1"
+plotly = "5.15.0"
+snowflake-connector-python="3.0.4"
+snowflake-snowpark-python="1.5.0"
+pyarrow="10.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
