@@ -17,7 +17,7 @@ from util.text_handling import short_text
 class ComparePage(AbstractContentPage):
     __MATCH_COLUMN_DEF = [5.9, 1.1, 5.9]
     __LIB_MATCH_COLUMN_DEF = [1.0, 0.2, 5.0]
-    __EXAMPLE_FILE = "Statutory-Sustainability-Report-Fiscal-Year-2021.pdf"
+    __EXAMPLE_FILE = "Hooray_IT_ESG_Report_2021.pdf"
 
     def __init__(self, page_id: int):
         super().__init__()
